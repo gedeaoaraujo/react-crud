@@ -1,0 +1,20 @@
+header.header {
+  background-color: var(--bg-dark);
+  padding: 0px 15px;
+  overflow: hidden;
+  white-space: nowrap;
+  box-shadow: var(--shadow);
+
+  display: flex;
+  align-items: center;
+}
+
+header h1 {
+  color: white;
+  font-size: 1.8em;
+}
+
+header p {
+  color: white;
+  font-size: 1.8em;
+}
